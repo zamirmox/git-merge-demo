@@ -8,4 +8,6 @@ def divide(x,y):
 	return x/y
 def square(x):
 	return X*X
+def cube(x):
+	return X*X*X
 	
