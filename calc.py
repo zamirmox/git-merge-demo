@@ -10,4 +10,6 @@ def square(x):
 	return X*X
 def cube(x):
 	return X*X*X
+def area(x,y):
+	return x*y
 	
